@@ -13,7 +13,7 @@ public class Centrs {
 		
 		// METODES
 		public String izvaditKoordinatas() {
-			return "Centra punkts atrodas:\n x = " + x + " y = "+y;
+			return "Centra punkts atrodas:\n x = " + x + " y = " + y;
 		}
 		
 		public void parvietot (int koordX, int koordY) {
