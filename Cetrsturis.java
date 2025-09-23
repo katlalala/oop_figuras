@@ -20,7 +20,7 @@ public class Cetrsturis {
 		}
 		
 		// LAUKUMA APREKINASANA
-		public double Laukums() {
+		public double CLaukums() {
 			double s = platums * augstums;
 			return s;
 		}
